@@ -1,0 +1,13 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: metau
+Upstream-Contact: guitarman_usa <guitarman_usa@yahoo.com>
+Source: https://launchpad.net/metau
+
+Files: *
+Copyright: (C) 2013 <Kyle Francis> <guitarman_usa@yahoo.com>
+Copyright: (C) 2013 &lt;Kyle Francis&gt; &lt;guitarman_usa@yahoo.com&gt;
+Copyright: (C) 2013 &lt;Kyle Francis&gt; &lt;guitarman_usa@yahoo.com&gt;</property>
+Copyright: (C)nam" atom or if it doesn't exist, the root filename
+License: GPL-3
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-3 on Debian systems.

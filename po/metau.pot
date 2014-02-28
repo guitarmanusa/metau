@@ -1,0 +1,455 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-01 23:24-1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../data/ui/AboutMetauDialog.ui.h:1
+msgid "Copyright (C) 2013 <Kyle Francis> <guitarman_usa@yahoo.com>"
+msgstr ""
+
+#: ../data/ui/AboutMetauDialog.ui.h:2
+msgid "Easily lookup and tag your favorite mp4's for iTunes."
+msgstr ""
+
+#: ../data/ui/AboutMetauDialog.ui.h:3
+msgid "Launchpad Website"
+msgstr ""
+
+#: ../data/ui/AboutMetauDialog.ui.h:4
+msgid ""
+"# Copyright (C) 2013 <Kyle Francis> <guitarman_usa@yahoo.com>\n"
+"# This program is free software: you can redistribute it and/or modify it \n"
+"# under the terms of the GNU General Public License version 3, as "
+"published \n"
+"# by the Free Software Foundation.\n"
+"# \n"
+"# This program is distributed in the hope that it will be useful, but \n"
+"# WITHOUT ANY WARRANTY; without even the implied warranties of \n"
+"# MERCHANTABILITY, SATISFACTORY QUALITY, or FITNESS FOR A PARTICULAR \n"
+"# PURPOSE.  See the GNU General Public License for more details.\n"
+"# \n"
+"# You should have received a copy of the GNU General Public License along \n"
+"# with this program.  If not, see <http://www.gnu.org/licenses/>.\n"
+msgstr ""
+
+#: ../data/ui/AboutMetauDialog.ui.h:17
+msgid "label"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:1 ../metau.desktop.in.h:1
+msgid "Metau"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:2
+msgid "_File"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:3
+msgid "_Edit"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:4
+msgid "_View"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:5
+msgid "_Help"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:6
+msgid "Contents"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:7
+msgid "Search"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:8
+msgid "Title"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:9
+msgid "Src"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:10
+msgid "Episode title or movie name: \"©nam\" atom"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:11
+msgid "Artist (Show)"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:12
+msgid "Date"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:13
+msgid "Rating"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:14
+msgid "Genre"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:15
+msgid "Album"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:16
+msgid "Album Artist"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:17
+msgid "Purchase Date"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:18
+msgid "G"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:19
+msgid "PG"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:20
+msgid "PG-13"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:21
+msgid "R"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:22
+msgid "NC-17"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:23
+msgid "Unrated"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:24
+msgid "TV-Y7"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:25
+msgid "TV-Y"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:26
+msgid "TV-G"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:27
+msgid "TV-PG"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:28
+msgid "TV-14"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:29
+msgid "TV-MA"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:30
+msgid "Short Description (255 characters max)"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:31
+msgid "Long Description"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:32
+msgid "Icon Size"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:33
+msgid "  Remove Cover Art  "
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:34
+msgid "Drag and drop an image here"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:35
+msgid "Info"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:36
+msgid "General Video Tags"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:37
+msgid "Actors"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:38
+msgid "Director"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:39
+msgid "Producer"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:40
+msgid "Screenwriter"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:41
+msgid "Video Kind"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:42
+msgid "TV Show"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:43
+msgid "Movie"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:44
+msgid "HD"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:45
+msgid "Non-HD"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:46
+msgid "720p"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:47
+msgid "1080p"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:48
+msgid "TV Tags"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:49
+msgid "Show"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:50
+msgid "Episode ID"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:51
+msgid "Season"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:52
+msgid "Episode"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:53
+msgid "TV Network"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:54
+msgid "Catalog ID: "
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:55
+msgid "Video"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:56
+msgid "Podcasting"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:57
+msgid "Feed URL"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:58
+msgid "Episode URL"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:59
+msgid "Category"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:60
+msgid "Keyword"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:61
+msgid "Advisory"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:62
+msgid "Inoffensive"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:63
+msgid "Clean Content"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:64
+msgid "Explicit Content"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:65
+msgid "false"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:66
+msgid "true"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:67
+msgid "Other"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:68
+msgid "Track #"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:69
+msgid "of"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:70
+msgid "Disk #"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:71
+msgid "Copyright"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:72
+msgid "Grouping"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:73
+msgid "Encoding Tool"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:74
+msgid "Comment"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:75
+msgid "Gapless"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:76
+msgid "Compilation"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:77
+msgid "Advanced"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:78
+msgid "Tags"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:79
+msgid "Name"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:80
+msgid "Artist"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:81
+msgid "Sort"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:82
+msgid "Sorting"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:83
+msgid "No."
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:84
+msgid "Chapter Title"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:85
+msgid "Duration"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:86
+msgid "Add a new chapter"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:87
+msgid "Delete a chapter"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:88
+msgid "Save edits to chapter structure to memory"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:89
+msgid "Refresh chapter info from file track info"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:90
+msgid "All Info"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:91
+msgid "Durations"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:92
+msgid "Chapters"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:93
+msgid "Queue"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:94
+msgid "Filename"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:95
+msgid "Progress"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:96
+msgid "Write"
+msgstr ""
+
+#: ../data/ui/MetauWindow.ui.h:97
+msgid "Status Area"
+msgstr ""
+
+#: ../metau/__init__.py:34
+msgid "Show debug messages (-vv debugs metau_lib also)"
+msgstr ""
+
+#: ../metau.desktop.in.h:2
+msgid "Metau application"
+msgstr ""
+
+#: ../data/ui/PreferencesMetauDialog.ui.h:1
+msgid "Metau Preferences"
+msgstr ""
+
+#: ../data/ui/PreferencesMetauDialog.ui.h:2
+msgid "_Example entry:"
+msgstr ""

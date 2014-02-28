@@ -1,0 +1,4 @@
+project = metau
+version = 12.04
+template = ubuntu-application
+lp_id = metau

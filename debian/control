@@ -1,0 +1,23 @@
+Source: metau
+Section: python
+Priority: extra
+Build-Depends: debhelper (>= 8),
+ python (>= 2.6.6-3~),
+ python-distutils-extra (>= 2.10)
+Maintainer: guitarman_usa <guitarman_usa@yahoo.com>
+Standards-Version: 3.9.3
+X-Python-Version: >= 2.6
+
+Package: metau
+Architecture: all
+Depends: ${misc:Depends},
+ ${python:Depends},
+ python-quickly.widgets,
+ gir1.2-gtk-3.0,
+ gir1.2-glib-2.0,
+ gir1.2-gdkpixbuf-2.0,
+ python-gtk2,
+ gir1.2-launchpad-integration-3.0,
+ yelp
+Description: Easily lookup and tag your favorite mp4's for iTunes.
+ UNKNOWN

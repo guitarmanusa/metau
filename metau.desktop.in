@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Metau
+_Comment=Metau application
+Categories=GNOME;AudioVideo;
+Exec=metau
+Icon=/usr/share/metau/media/metau.svg
+Terminal=false
+Type=Application
