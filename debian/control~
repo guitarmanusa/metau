@@ -11,6 +11,8 @@ X-Python-Version: >= 2.6
 Package: metau
 Architecture: all
 Depends: ${misc:Depends},
+ AtomicParsley
+ gcc
  ${python:Depends},
  python-quickly.widgets,
  gir1.2-gtk-3.0,
@@ -18,9 +20,7 @@ Depends: ${misc:Depends},
  gir1.2-gdkpixbuf-2.0,
  python-gtk2,
  gir1.2-launchpad-integration-3.0,
- yelp,
- atomicparsley,
- libmp4v2-2
+ yelp
 Description: Easily lookup and tag your favorite mp4's for iTunes.
  Easily lookup and tag your favorite mp4's for iTunes.  This is a GUI
  interface for the AtomicParsley application and a port from the MacOS X

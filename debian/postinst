@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#copy compiled binaries to /usr/local/bin
+cp -t /usr/local/bin/ ../usr/bin/metau_list_chapters ../usr/bin/metau_write_rtng ../usr/bin/metau_write_chapters

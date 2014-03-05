@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#compile *.c files
+#TODO make one large C file??
+gcc -o list_chapters list_chapters.c -lmp4v2;
+gcc -o write_chapters write_chapters.c -lmp4v2;
+gcc -o list_tags list_tags -lmp4v2;
+gcc -o write_rtng write_rtng -lmp4v2;

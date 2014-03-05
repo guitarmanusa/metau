@@ -5,9 +5,12 @@ Source: https://launchpad.net/metau
 
 Files: *
 Copyright: (C) 2013 <Kyle Francis> <guitarman_usa@yahoo.com>
+Copyright: (C) 2013 Kyle Francis guitarman_usa@yahoo.com
 Copyright: (C) 2013 &lt;Kyle Francis&gt; &lt;guitarman_usa@yahoo.com&gt;
 Copyright: (C) 2013 &lt;Kyle Francis&gt; &lt;guitarman_usa@yahoo.com&gt;</property>
 Copyright: (C)nam" atom or if it doesn't exist, the root filename
+Copyright: (C) Quickly API.  Once I realized the limitations this presented I was too far into the development to throw it all out and start over again.  If anyone would care to port this to C that would be fantastic and you have my encouragement.
+Copyright: (C) uses a form of XML to hold multiple names in these fields and I just haven't had time to properly implement them.
 License: GPL-3
  The full text of the GPL is distributed in
  /usr/share/common-licenses/GPL-3 on Debian systems.

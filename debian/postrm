@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rm /usr/local/bin/metau_list_chapters /usr/local/bin/metau_write_chapters /usr/local/bin/metau_write_rtng

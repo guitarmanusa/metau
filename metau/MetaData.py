@@ -41,6 +41,7 @@ class MetaData():
         #use dictionaries and lookup, define a dictionary, then for each option
         #in the atompicparsley output, look it up in the dictionary.
         # call atomicparsley, get stdout
+        #TODO change this executable from home dir to executable in $PATH
         proc = subprocess.Popen([self.home + "/.metau/AtomicParsley " + self.filename + " -t"], stdout=subprocess.PIPE, shell=True)
         (out, err) = proc.communicate()
         atoms = out.split("Atom ")

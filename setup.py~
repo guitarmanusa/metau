@@ -94,6 +94,7 @@ DistUtilsExtra.auto.setup(
     description='Easily lookup and tag your favorite mp4\'s for iTunes.',
     long_description='Easily lookup and tag your favorite mp4\'s for iTunes.  This is a GUI interface for the AtomicParsley application and a port from the MacOS X program MetaX.  The layout design and artwork are reused with the original author\'s permission.',
     url='https://launchpad.net/metau',
+    depends='atomicparsley, libmp4v2-2',
     cmdclass={'install': InstallAndUpdateDataDirectory}
     )
 
